@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skachat-gta-rp.vercel.app/sitemap.xml
